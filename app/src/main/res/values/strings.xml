@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DogBreeds</string>
+    <string name="dog_breeds">Dog Breeds</string>
+    <string name="enter_breed_to_filter">Enter breed to filter</string>
+    <string name="no_dogs_breeds_found">No dogs breeds found</string>
+    <string name="no_images_found">No images found</string>
+    <string name="error_loading_dogs">Error loading dogs</string>
+    <string name="loading_dogs">Loading dogs</string>
+</resources>
